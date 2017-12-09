@@ -24,4 +24,10 @@ Route::get('contact', function (){
 	return view('contact');
 });
 
+/*
+
+some routes for issue-42
+
+*/
+
 
