@@ -24,4 +24,4 @@ Route::get('contact', function (){
 	return view('contact');
 });
 
-
+/*some master routes*/
